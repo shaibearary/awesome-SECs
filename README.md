@@ -27,6 +27,19 @@
 - Week 2: [fips-mac](https://github.com/erskingardner/fips-mac)![stars](https://img.shields.io/github/stars/erskingardner/fips-mac.svg?style=social) - A macOS project for running and integrating FIPS on Mac; and [wok](https://github.com/erskingardner/wok)![stars](https://img.shields.io/github/stars/erskingardner/wok.svg?style=social) - A Wok codebase used for the FIPS integration demo.
 - Week 3: [wok with fips](https://github.com/erskingardner/wok/commit/bec28dd94b3b2c44791ede52fec6ce11c4e5d59d)![stars](https://img.shields.io/github/stars/erskingardner/wok.svg?style=social) - A commit documenting the Wok and FIPS integration state; and [marmot over fips](https://github.com/marmot-protocol/mdk/tree/codex/fips-relay-transport-spike)![stars](https://img.shields.io/github/stars/marmot-protocol/mdk.svg?style=social) - A branch exploring relay transport over FIPS.
 
+
+
+### hzrd149
+
+- Week 1: [stlstr](https://github.com/hzrd149/stlstr) - A Thingiverse-style app for publishing, browsing, and discussing 3D printables on Nostr, with a deliberately small host shell and the product UI split into sandboxed NIP-5D napplets.
+- Week 2: [Napplet Portal](https://github.com/hzrd149/napplet-portal) - A Deno Fresh runtime for one trusted operator, where a mobile browser hosts a sandboxed napplet while the server owns account credentials, Nostr relay connections, and state.
+- Week 3: [Hashtree explainer](https://gitworkshop.dev/hzrd149.com/git.shakespeare.diy/hashtree-explainer) - A slide-based walkthrough of the four draft Blossom BUDs that let a client store a whole directory tree using nothing but ordinary blobs.
+- Week 3: [deno2nix](https://github.com/hzrd149/deno2nix) - Small Nix builders for installing locked Deno dependencies and packaging Deno applications that run without network dependency resolution.
+- Week 3: [nostr-ownership](https://github.com/hzrd149/nostr-ownership) - A specialized Nostr relay that validates ownership definitions (`kind:3900`) and transfers (`kind:3901`) and derives a deterministic per-relay owner; and [Collectstr](https://github.com/hzrd149/nostr-collectables) - A browser client for creating, transferring, inspecting, and showcasing ownership claims over Nostr events.
+- Week 4: [nix-golsim](https://gitworkshop.dev/hzrd149.com/git.shakespeare.diy/nix-golsim) - A deterministic Conway's Game of Life frame renderer that runs a named starting pattern on a toroidal grid and serves the preview over HTTP.
+- Week 4: [nixstr-cache](https://github.com/hzrd149/nixstr-cache) - Publishes and retrieves Nix binary caches through Nostr and Blossom while presenting a normal HTTP binary cache to Nix.
+- Week 6: [nostr-relay-tray with fips](https://github.com/hzrd149/nostr-relay-tray/tree/fips-integration) - A desktop Nostr relay tray app with its proxy replaced by a fips mesh integration, plus platform-appropriate data storage locations.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and submission rules.
