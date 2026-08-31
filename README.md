@@ -40,6 +40,14 @@
 - Week 4: [nixstr-cache](https://github.com/hzrd149/nixstr-cache) - Publishes and retrieves Nix binary caches through Nostr and Blossom while presenting a normal HTTP binary cache to Nix.
 - Week 6: [nostr-relay-tray with fips](https://github.com/hzrd149/nostr-relay-tray/tree/fips-integration) - A desktop Nostr relay tray app with its proxy replaced by a fips mesh integration, plus platform-appropriate data storage locations.
 
+
+
+### CruxCoach
+
+- Week 4: [Offline app and board-data sharing](https://github.com/CruxCoach/CruxCoach)![stars](https://img.shields.io/github/stars/CruxCoach/CruxCoach.svg?style=social) - A phone-to-phone local hotspot flow for sharing the APK and public board catalogues without internet access.
+- Week 5: [Shared climbing playlists over a local BLE/FIPS mesh](https://github.com/CruxCoach/CruxCoach)![stars](https://img.shields.io/github/stars/CruxCoach/CruxCoach.svg?style=social) - An encrypted, serverless mesh that keeps a group's climbing playlist and connected-board state in sync over BLE.
+- Week 6: [MoonBoard logbook import via Android Accessibility](https://github.com/CruxCoach/CruxCoach)![stars](https://img.shields.io/github/stars/CruxCoach/CruxCoach.svg?style=social) - An on-device importer that transfers ascents and attempts from the official MoonBoard app into CruxCoach.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and submission rules.
