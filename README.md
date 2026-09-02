@@ -48,6 +48,26 @@
 - Week 5: [Shared climbing playlists over a local BLE/FIPS mesh](https://github.com/CruxCoach/CruxCoach)![stars](https://img.shields.io/github/stars/CruxCoach/CruxCoach.svg?style=social) - An encrypted, serverless mesh that keeps a group's climbing playlist and connected-board state in sync over BLE.
 - Week 6: [MoonBoard logbook import via Android Accessibility](https://github.com/CruxCoach/CruxCoach)![stars](https://img.shields.io/github/stars/CruxCoach/CruxCoach.svg?style=social) - An on-device importer that transfers ascents and attempts from the official MoonBoard app into CruxCoach.
 
+
+
+### brenorb
+
+- Week 1: [Granola](https://github.com/brenorb/granola)![stars](https://img.shields.io/github/stars/brenorb/granola.svg?style=social) - Cashu atomic swaps coordinated over Nostr.
+- Week 2: [Hosted Nowhere CLI](https://github.com/brenorb/nowhere-cli)![stars](https://img.shields.io/github/stars/brenorb/nowhere-cli.svg?style=social) - A CLI port of Nowhere, the sites that are hosted nowhere.
+- Week 4: [Cashu Sync for Silent Link](https://github.com/brenorb/cashu-sync)![stars](https://img.shields.io/github/stars/brenorb/cashu-sync.svg?style=social) - Synchronizing Cashu wallets across devices for Silent Link.
+- Week 5: [NutFT](https://github.com/brenorb/NutFT)![stars](https://img.shields.io/github/stars/brenorb/NutFT.svg?style=social) - Nut Fungible Tokens, an application-level Cashu extension (draft NUT-31) for proofs that represent individually identifiable bearer assets; and [600 Billion Timelock TCG](https://github.com/BIMbeamFLX/600BillionTimelockTCG)![stars](https://img.shields.io/github/stars/BIMbeamFLX/600BillionTimelockTCG.svg?style=social) - The trading card game built on that draft, where Bitcoin proves the time and Nostr owns the object.
+- Week 6: [Envelope](https://github.com/brenorb/envelope)![stars](https://img.shields.io/github/stars/brenorb/envelope.svg?style=social) - An nsite-hosted opener shell for content-addressed Nostr napplets, for unstoppable napplets.
+
+
+
+### julien
+
+- Week 1: [nostrpkgs](https://github.com/jurraca/nostrpkgs)![stars](https://img.shields.io/github/stars/jurraca/nostrpkgs.svg?style=social) - Nix packages for Nostr software.
+- Week 2: [ngit-deploy](https://github.com/jurraca/ngit-deploy)![stars](https://img.shields.io/github/stars/jurraca/ngit-deploy.svg?style=social) - An example ngit-grasp NixOS deploy configuration.
+- Week 3: [pyramid-nix](https://github.com/jurraca/pyramid-nix)![stars](https://img.shields.io/github/stars/jurraca/pyramid-nix.svg?style=social) - A Nix flake for fiatjaf's Pyramid relay; [fips (nix-module)](https://github.com/jurraca/fips/tree/nix-module)![stars](https://img.shields.io/github/stars/jurraca/fips.svg?style=social) - A NixOS module for the Free Internetworking Peering System; and [demo-nixos](https://github.com/jurraca/demo-nixos)![stars](https://img.shields.io/github/stars/jurraca/demo-nixos.svg?style=social) - A bare-basics NixOS configuration to deploy them from.
+- Week 4: [narwal](https://github.com/jurraca/narwal)![stars](https://img.shields.io/github/stars/jurraca/narwal.svg?style=social) - Nix packages over Nostr; and [narwal-publisher](https://github.com/jurraca/narwal-publisher)![stars](https://img.shields.io/github/stars/jurraca/narwal-publisher.svg?style=social) - Publishes Nix packages to Blossom and resolves them via Nostr.
+- Week 6: [Mist](https://github.com/jurraca/mist)![stars](https://img.shields.io/github/stars/jurraca/mist.svg?style=social) - A Phoenix web interface to Nostr, with a single GenServer owning every relay subscription.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and submission rules.
